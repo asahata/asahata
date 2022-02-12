@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asahata
 - 👀 I’m interested in mobile and security.
 - 🌱 I’m currently learning mobile app development for both iOS and Android.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on various mobile projects.
 - 📫 Please reach me @asahata on Twitter.
 
 <!---
